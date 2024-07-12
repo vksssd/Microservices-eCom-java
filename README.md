@@ -49,7 +49,3 @@
    - Product recommendation 
    - Product catalog
    
-### Status:
-
-**Application status :** BETA 
-
